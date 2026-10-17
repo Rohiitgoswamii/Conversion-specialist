@@ -1,8 +1,10 @@
 # A/B Testing for Conversion Optimization
 
+🔗 **[Live demo](https://conversion-specialist.streamlit.app/)**
+
 A Python walkthrough of how to run and read an A/B test: simulate traffic, compute conversion rates with confidence intervals, test significance, and monitor results live without fooling yourself.
 
-![Real-time monitoring](outputs/realtime_ab_test_monitoring.png)
+![Real-time monitoring](realtime_ab_test_monitoring.png)
 
 ## What it does
 - Simulates 10,000 visitors per variant (A = 10%, B = 12% true conversion)
